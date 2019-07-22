@@ -1,0 +1,26 @@
+{
+  "name": "d3project",
+  "version": "1.0.0",
+  "description": "D3 driven data project - exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgardoCS/D3Project.git"
+  },
+  "keywords": [
+    "D3;",
+    "data-driven"
+  ],
+  "author": "EdgardoCS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgardoCS/D3Project/issues"
+  },
+  "homepage": "https://github.com/EdgardoCS/D3Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
